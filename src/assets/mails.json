@@ -1,0 +1,112 @@
+[
+  {
+    "from": "aaa@example.com",
+    "to": [
+      "zzz.zzz@example.com"
+    ],
+    "subject": "[ HR-888 ] Notice of official announcement",
+    "attachment": [],
+    "received": "2020-07-22T17:24:41.015Z",
+    "id": 0
+  },
+  {
+    "from": "bbb.bbbb@example.com",
+    "to": [
+      "yyy@example.com"
+    ],
+    "subject": "[web: 333 ] \"Web Contact\"",
+    "attachment": [],
+    "received": "2020-05-29T13:43:15.546Z",
+    "id": 1
+  },
+  {
+    "from": "ccc@example.com",
+    "to": [
+      "xxx@example.com",
+      "xxx@example.com"
+    ],
+    "subject": "Happy New Year! Greetings for the New Year.",
+    "attachment": [
+      "thing"
+    ],
+    "received": "2020-06-25T19:40:03.416Z",
+    "id": 2
+  },
+  {
+    "from": "ddd.dddd@example.com",
+    "to": [
+      "vvv.vvv@example.com",
+      "vvv.vvv1@example.com"
+    ],
+    "subject": "[HR-887(Revised: Office Expansion Project Team)] Notice of office cookies",
+    "attachment": [],
+    "received": "2020-07-06T06:26:37.396Z",
+    "id": 3
+  },
+  {
+    "from": "eee@example.com",
+    "to": [
+      "sss@example.com",
+      "sss1@example.com",
+      "sss2@example.com"
+    ],
+    "subject": "[Github] Logout page",
+    "attachment": [],
+    "received": "2020-07-03T23:36:29.341Z",
+    "id": 4
+  },
+  {
+    "from": "fff.ffff@example.c",
+    "to": [
+      "qqq.qqq@example.com"
+    ],
+    "subject": "[dev]Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+    "attachment": [],
+    "received": "2020-06-27T19:41:50.870Z",
+    "id": 5
+  },
+  {
+    "from": "ggg@example.com",
+    "to": [
+      "ppp@example.com"
+    ],
+    "subject": "Re: [Github] Brush-up on loading animation",
+    "attachment": [],
+    "received": "2020-05-21T08:10:18.446Z",
+    "id": 6
+  },
+  {
+    "from": "hhh.hhh@example.com",
+    "to": [
+      "ooo.ooo@example.com"
+    ],
+    "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+    "attachment": [
+      "thing"
+    ],
+    "received": "2020-07-10T06:18:55.041Z",
+    "id": 7
+  },
+  {
+    "from": "iii@example.com",
+    "to": [
+      "nnn@example.com"
+    ],
+    "subject": "I love you",
+    "attachment": [
+      "thing"
+    ],
+    "received": "2020-06-08T21:21:25.836Z",
+    "id": 8
+  },
+  {
+    "from": "Pablo-Diego-José-Francisco@example.com",
+    "to": [
+      "Pablo-Diego-José-Francisc"
+    ],
+    "subject": "[info:888] ABC EQUIPMENT COMPANY",
+    "attachment": [],
+    "received": "2020-06-17T01:00:40.993Z",
+    "id": 9
+  }
+]
